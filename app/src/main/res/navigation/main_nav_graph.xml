@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/getActivityFragment">
+
+    <fragment
+        android:id="@+id/getActivityFragment"
+        android:name="com.userandroid.retrofitpractise.fragments.GetActivityFragment"
+        android:label="fragment_get_activity"
+        tools:layout="@layout/fragment_get_activity" />
+    <fragment
+        android:id="@+id/doneActivityFragment"
+        android:name="com.userandroid.retrofitpractise.fragments.DoneActivityFragment"
+        android:label="fragment_done_activity"
+        tools:layout="@layout/fragment_done_activity" />
+    <fragment
+        android:id="@+id/optionsFragment"
+        android:name="com.userandroid.retrofitpractise.fragments.OptionsFragment"
+        android:label="fragment_options"
+        tools:layout="@layout/fragment_options" />
+</navigation>
