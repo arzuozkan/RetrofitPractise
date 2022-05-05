@@ -6,7 +6,8 @@
 
 ## Random Fragment 
 
-![getActivityScreen](https://user-images.githubusercontent.com/48025290/164534560-bd8168b6-d032-409f-a6be-32a414aab8ed.PNG)
+![resim](https://user-images.githubusercontent.com/48025290/166922432-f2cedcb4-62f6-4fc7-be9b-6fe338b5d7c1.png)
+
 
 It gives the random activity with required price,participant and it has a type, also ease of doing information. The screen has not finished yet.
 
